@@ -1,0 +1,23 @@
+{
+  "name": "jsFuncionalEReativo-leonardoLeitao",
+  "version": "1.0.0",
+  "description": "Conteúdo de aprendizagem do curso JavaScript Funcional e Reativo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseaugustorb/jsFuncionalEReativo-leonardoLeitao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseaugustorb/jsFuncionalEReativo-leonardoLeitao/issues"
+  },
+  "homepage": "https://github.com/joseaugustorb/jsFuncionalEReativo-leonardoLeitao#readme",
+  "dependencies": {
+    "rxjs": "^6.6.0"
+  }
+}
